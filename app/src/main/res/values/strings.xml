@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CurrencyConverter</string>
+    <string name="placeholder_amount">Enter amount</string>
+    <string name="select_currency">Select Currency</string>
+    <string name="pref_key">currency_preference_key</string>
+    <string name="network_error">Network unavailable</string>
+    <string name="some_error">Some error occurred</string>
+</resources>
